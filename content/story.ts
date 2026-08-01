@@ -44,7 +44,7 @@ export const story = {
   },
 
   hero: {
-    photo: "/images/photo-09.jpg",
+    photo: "/images/aa0695aa-6412-4869-92b8-6b60a5947ef8.jpeg",
     badge: "Para vos",
     greeting: "Hola, amor.",
     title: "Esta es nuestra historia.",
